@@ -1,5 +1,5 @@
-# Goal of my project
-	##Genetic ancestry, race and health disparities: A biocultural approach
+## Goal of my project
+Genetic ancestry, race and health disparities: A biocultural approach
 The proposed research project will investigate the genetic underpinnings of race and disease within a biocultural context. The question driving this research is why African Americans suffer an increased prevalence of hypertension. 
 DNA samples will be collected from all individuals interviewed for sociocultural risk factors and those samples will be assayed for ancestry informative genetic markers (for an estimate of genetic ancestry) and for candidate genes involved in hypertension and related phenotypes. 
 Questions to be asked - Three sets of questions will be addressed: 1) What are the associations between different measures of race, 2) What association exists between genetic ancestry and hypertension? 3) Are associations between candidate gene polymorphisms and hypertension modified when ancestry, measures of skin color, and novel sociocultural data, such as new measures of discrimination, are added to the model?
